@@ -8,3 +8,8 @@ subtraction = num1 - num2
 
 print("Addition:", addition)
 print("Subtraction:", subtraction)
+
+multiplication=num1*num2
+division=num1/num2
+print("multiplication=",multiplication)
+print("division=",division)
